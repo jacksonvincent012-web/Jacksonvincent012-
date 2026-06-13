@@ -20,11 +20,11 @@ The **AI-Powered Self-Learning Vehicle Ecosystem** is an intelligent transportat
 
 ## ✨ Key Features
 
-- **Vehicle Management**: 8 vehicle types, urgency scoring, fuel monitoring  
-- **AI Engine**: Traffic prediction, hazard detection, route optimization, self-learning  
-- **Negotiation System**: Intersection, merge, emergency, and fuel priority handling  
-- **Fuel Optimization**: Consumption prediction, station finder, strategic refueling  
-- **Visual Dashboard**: Interactive map, charts, AI console, glassmorphism UI  
+- **Vehicle Management** → 8 vehicle types, urgency scoring, fuel monitoring  
+- **AI Engine** → Traffic prediction, hazard detection, route optimization, self-learning  
+- **Negotiation System** → Intersection, merge, emergency, and fuel priority handling  
+- **Fuel Optimization** → Consumption prediction, station finder, strategic refueling  
+- **Visual Dashboard** → Interactive map, charts, AI console, glassmorphism UI  
 
 ---
 
@@ -50,8 +50,8 @@ The **AI-Powered Self-Learning Vehicle Ecosystem** is an intelligent transportat
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/ai-vehicle-ecosystem.git
-cd ai-vehicle-ecosystem
+git clone https://github.com/jacksonvincent012-web/ai-vehicle-ecosystem-demo.git
+cd ai-vehicle-ecosystem-demo
 
 # Install dependencies
 npm install
