@@ -1,7 +1,5 @@
 # 🚗 AI-Powered Self-Learning Vehicle Ecosystem
 
-**🏆 Hackathon-Ready | 🎯 Interactive Demo | 🤖 AI-Powered**
-
 *A next-generation intelligent transportation system featuring predictive negotiation, fuel optimization, and self-learning capabilities.*
 
 ---
